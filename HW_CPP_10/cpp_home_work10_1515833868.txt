@@ -1,0 +1,9 @@
+Реализуйте хранение информации о студентах и группах используя ТОЛЬКО стандартные типы и алгоритмы.
+Можете использовать любые простые типы (int, double и др.) а также любые классы из std::, например:
+std::string	http://ru.cppreference.com/w/cpp/string/basic_string
+std::pair	http://ru.cppreference.com/w/cpp/utility/pair
+std::tuple 	http://ru.cppreference.com/w/cpp/utility/tuple
+std::vector	http://ru.cppreference.com/w/cpp/container/vector
+
+Также напишите функции вывода в консоль, сортировки и поиска студентов по имени, по фамилии, по возрасту.
+Не забудьте написать проверочный код.

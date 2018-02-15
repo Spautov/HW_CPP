@@ -1,0 +1,26 @@
+Creation of group:
+# 0 : IVAN PETROV : 19
+# 1 : KATJA IVANOVA : 18
+# 2 : ARTEM KRIVOY : 17
+
+sorting according to a name:
+# 0 : ARTEM KRIVOY : 17
+# 1 : IVAN PETROV : 19
+# 2 : KATJA IVANOVA : 18
+
+sorting according to a surname:
+# 0 : KATJA IVANOVA : 18
+# 1 : ARTEM KRIVOY : 17
+# 2 : IVAN PETROV : 19
+
+sorting according to a age:
+# 0 : ARTEM KRIVOY : 17
+# 1 : KATJA IVANOVA : 18
+# 2 : IVAN PETROV : 19
+
+search in a name:
+member # 1 has name "Katja"
+search in a surname:
+member # 0 has surname "Krivoy"
+search in a age:
+member # 2 is 19 ears old 
